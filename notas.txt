@@ -1,0 +1,13 @@
+variables
+    let - ok
+    const - ok
+
+condicionales
+    if - ok
+    else - ok
+    else if - 
+
+bucles
+    while 
+    for - ok
+        
